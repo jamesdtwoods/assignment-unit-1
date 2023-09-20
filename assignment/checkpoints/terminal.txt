@@ -28,4 +28,4 @@ to see which files have been changed
 adds all changed files to be committed
 
 # 10 - What is the command to push your committed changes to your repo on GitHub?
-git commit 
+git commit -m "comment about changes made"
